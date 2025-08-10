@@ -1,0 +1,52 @@
+# Your validated skill levels - only technologies you can defend in interviews!
+
+expert:
+  # Technologies you're an expert in - comfortable discussing architecture, best practices, etc.
+  - "C++"
+  - "Java" 
+  - "Python"
+  - "Bazel"
+  - "CI/CD"
+  - "x86 Assembly"
+
+proficient:
+  # Technologies you're proficient with - can work effectively, some experience
+  - "Kubernetes"
+  - "Docker"
+  - "AWS"
+  - "MySQL"
+  - "PostgreSQL"
+  - "JavaScript"
+  - "Kotlin"
+  - "Gradle"
+  - "GitHub Actions"
+  - "Prometheus"
+  - "Linux"
+
+familiar:
+  # Technologies you're familiar with - some exposure, can learn quickly
+  - "Go"
+  - "React"
+  - "Node.js"
+  - "Redis"
+  - "Terraform"
+  - "Jenkins"
+  - "GraphQL"
+  - "MongoDB"
+
+learning:
+  # Technologies you're currently learning - minimal experience but actively studying
+  - "Rust"
+  - "TensorFlow"
+  - "Elasticsearch"
+
+never_add:
+  # Technologies to NEVER automatically add - either you don't know them or don't want them on resume
+  - "PHP"
+  - ".NET"
+  - "Ruby"
+  - "Scala"  # Remove if you actually know Scala
+  - "Swift"
+  - "Objective-C"
+  - "COBOL"
+  - "Visual Basic"

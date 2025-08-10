@@ -1,0 +1,36 @@
+Senior Backend Engineer - AI Infrastructure
+
+We are looking for a Senior Backend Engineer to join our AI Infrastructure team. You will be responsible for building scalable backend systems that power our machine learning models and data processing pipelines.
+
+Requirements:
+- 5+ years of experience with Python and Java
+- Strong experience with Kubernetes and Docker containerization
+- Experience with AWS cloud services (ECS, EKS, S3, RDS)
+- Knowledge of CI/CD pipelines using GitHub Actions or Jenkins
+- Experience with microservices architecture
+- Familiarity with monitoring tools like Prometheus and Grafana
+- Experience with databases (PostgreSQL, Redis)
+- Knowledge of Bazel build systems is a plus
+- Experience with machine learning model serving
+
+Tech Stack:
+- Python, Java, Go
+- Kubernetes, Docker
+- AWS (EKS, ECS, RDS, S3)
+- PostgreSQL, Redis
+- Bazel, GitHub Actions
+- Prometheus, Grafana
+
+Responsibilities:
+- Design and implement scalable backend services
+- Build CI/CD pipelines for ML model deployment
+- Optimize system performance and reliability
+- Collaborate with data science teams on model serving infrastructure
+- Implement monitoring and alerting systems
+- Work with containerized applications using Docker and Kubernetes
+
+Nice to have:
+- Experience with TensorFlow or PyTorch
+- Knowledge of distributed systems
+- Experience with REST API design
+- Familiarity with agile development methodologies

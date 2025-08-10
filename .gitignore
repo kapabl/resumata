@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Generated files
+resumes/generated/*
+!resumes/generated/.gitkeep
+*.pdf
+
+# Personal data (uncomment if you want to keep job posts private)
+# job_posts/*.txt
+# config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
